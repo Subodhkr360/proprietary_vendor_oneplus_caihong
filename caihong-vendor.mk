@@ -123,6 +123,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/caihong/proprietary/odm/lib64/camera/libpdCustomParam_Cam2.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libpdCustomParam_Cam2.bin \
     vendor/oneplus/caihong/proprietary/odm/lib64/camera/libpdCustomParam_Cam3.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libpdCustomParam_Cam3.bin \
     vendor/oneplus/caihong/proprietary/odm/lib64/camera/revision.txt:$(TARGET_COPY_OUT_ODM)/lib64/camera/revision.txt \
+    vendor/oneplus/caihong/proprietary/odm/usr/idc/OPPO_Pad_3_Pro_Keyboard_Touchpad.idc:$(TARGET_COPY_OUT_ODM)/usr/idc/OPPO_Pad_3_Pro_Keyboard_Touchpad.idc \
+    vendor/oneplus/caihong/proprietary/odm/usr/idc/OnePlus_Pad_Pro_Keyboard_Touchpad.idc:$(TARGET_COPY_OUT_ODM)/usr/idc/OnePlus_Pad_Pro_Keyboard_Touchpad.idc \
+    vendor/oneplus/caihong/proprietary/odm/usr/idc/OnePlus_Pad_Smart_Keyboard_Touchpad.idc:$(TARGET_COPY_OUT_ODM)/usr/idc/OnePlus_Pad_Smart_Keyboard_Touchpad.idc \
     vendor/oneplus/caihong/proprietary/odm/usr/idc/pogo_touchpad.idc:$(TARGET_COPY_OUT_ODM)/usr/idc/pogo_touchpad.idc \
     vendor/oneplus/caihong/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/oneplus/caihong/proprietary/odm/vendor/firmware/antdtx.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/antdtx.b00 \
